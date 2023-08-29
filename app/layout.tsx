@@ -4,7 +4,7 @@ import ActiveStatus from './components/ActiveStatus'
 import ToasterContext from './context/ToasterContext'
 
 export const metadata = {
-  title: 'MSU-Messanger'',
+  title: 'MSU-Messanger',
   description: 'A Social Nextwork For MSU Students',
 }
 
